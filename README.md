@@ -1,4 +1,4 @@
-# Predictive-Modeling---SAS
+# Predictive-Modeling with SAS
 ## Link for the course
 Link: http://web.sgh.waw.pl/~akorczy/abappm.htm
 
