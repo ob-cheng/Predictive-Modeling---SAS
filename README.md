@@ -12,3 +12,4 @@ https://sghedu.sharepoint.com/sites/intranet/ACTII/Shared%20Documents/Forms/AllI
 
 Address for vpn download: https://vpn.sgh.waw.pl/global-protect/getsoftwarepage.esp
 
+The data used is provided by European Bank; which can be found at https://www.beeps-ebrd.com/data/2018-2020/.
