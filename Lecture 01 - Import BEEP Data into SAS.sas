@@ -17,7 +17,7 @@
 %let url=https://raw.githubusercontent.com/adam-54/class/main/common;
 
 *[3.1] Import CSV file;
-%LoadFileProcHttp(FileName=beeps.csv);
+%LoadFileProcHttp(FileName=beeps.csv); use beep_c
 
 /* run until the above line to import the beeps dataset.  */
 
